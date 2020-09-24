@@ -5,7 +5,7 @@ Ironhack Project
 1. Link to the Presentation: https://slides.com/victorianenasheva/book-genre-classificator/
 
 2. The repository structure:
-- 2 notebook files for Image Classification part (Titles.ipynb) and Text Classification part (Books.ipynb)
+- 2 notebook files for Image Classification part (Books.ipynb) and Text Classification part (Titles.ipynb)
 - 3 saved models
 - saved datasets
 
